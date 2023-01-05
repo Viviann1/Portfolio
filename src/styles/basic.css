@@ -1,8 +1,12 @@
 body {
   margin: 0;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  background-color: hsl(16,78,36);
+  background-color: #A43C15;
   padding: 20px;
   margin-top: 5px;
 
+}
+
+link {
+  color: white;
 }
